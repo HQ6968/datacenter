@@ -1,0 +1,10 @@
+{
+    "name": "mac/datacenter",
+    "authors": [
+        {
+            "name": "huqi",
+            "email": "qi.hu@verystar.cn"
+        }
+    ],
+    "require": {}
+}
